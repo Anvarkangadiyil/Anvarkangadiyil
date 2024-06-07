@@ -1,8 +1,18 @@
 
 # Hi there, I'm Anvar 👋
 
+
+
+<span>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9iamxzdGd4aWFtenVmcDdscm1qZjE3bmh0MjE0cjUzcWd2MWxjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif">
+  
+</span>
+<br>
+<br>
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/anvar-kangadiyil-653679274))
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:anvarkangadiyil@gmail.com)
+
 
 ## About Me
 
@@ -44,4 +54,4 @@ Feel free to reach out to me on [LinkedIn]([https://www.linkedin.com/in/your-pro
 
 ---
 
-⭐️ From [Anvar](https://github.com/your-username)
+⭐️ From [Anvar](https://github.com/Anvarkangadiyil)
