@@ -1,8 +1,6 @@
 
 # Hi there, I'm Anvar 👋
 
-
-
 <span>
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9iamxzdGd4aWFtenVmcDdscm1qZjE3bmh0MjE0cjUzcWd2MWxjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif">
   
