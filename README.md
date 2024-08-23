@@ -25,8 +25,8 @@
 
 I am a passionate software developer with a focus on building innovative solutions using modern technologies. Currently, I'm expanding my expertise in web and mobile development.
 
-- 🌱 I’m currently learning **TypeScript** and **GraphQL**
-- 💬 Ask me about **React**, **Flutter**, and **JavaScript**
+- 🌱 I’m currently learning **TypeScript**
+- 💬 Ask me about **React**, **Flutter**
 - 📫 How to reach me: anvarkanagadiyil@gmail.com
 
 ## 🚀 Skills
@@ -41,12 +41,10 @@ I am a passionate software developer with a focus on building innovative solutio
 ### Frameworks and Libraries
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
 ![Tauri](https://img.shields.io/badge/-Tauri-FFC131?style=flat&logo=tauri&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
 
 
