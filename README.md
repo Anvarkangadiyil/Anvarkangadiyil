@@ -1,60 +1,187 @@
+<!-- ANIMATED HEADER -->
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=240&section=header&text=Anvar%20Kangadiyil&fontColor=ffffff&fontSize=46&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer&descSize=18&descAlignY=56)
+
 <div align="center">
 
-# Hi there, I'm Anvar 👋
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=600&amp;height=30&amp;lines=%E2%9A%A1+Building+production+systems+that+scale;%F0%9F%A7%A0+Exploring+ML+systems+%26+RAG+architectures;%F0%9F%8F%97%EF%B8%8F+Turning+complex+problems+into+clean+code" alt="Typing SVG" />
+</a>
 
-<span>
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW9iamxzdGd4aWFtenVmcDdscm1qZjE3bmh0MjE0cjUzcWd2MWxjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="45">
-</span>
-<br>
-<br>
+<br /><br />
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anvar-kangadiyil-653679274)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:anvarkangadiyil@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=Vercel&logoColor=white)](#) </div>
+<!-- SOCIAL BADGES -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anvar-kangadiyil-653679274)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anvarkangadiyil@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anvarkangadiyil)
 
----
+<br />
 
-## 👨‍💻 About Me
+![Profile Views](https://komarev.com/ghpvc/?username=Anvarkangadiyil&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS)
 
-I am a Full Stack Developer currently working as a Software Engineer I, while completing my Master of Computer Applications (MCA). I specialize in architecting production-ready web applications and designing normalized database schemas. Beyond traditional web development, I have a strong focus on integrating Artificial Intelligence into modern workflows to build intelligent, context-aware tools.
+</div>
 
-- 🔭 **Currently working on:** Enterprise-grade REST APIs and full-stack features using Next.js, Node.js, and PostgreSQL.
-- 🌱 **Currently exploring:** Advanced AI applications, Retrieval-Augmented Generation (RAG) systems, and AI-powered coding agents.
-- 💡 **Recent milestones:** Engineered **Axiom** (an AI-powered cloud IDE) and built **LeetCode Copilot** (an intelligent Chrome extension).
-- 📫 **How to reach me:** [anvarkangadiyil@gmail.com](mailto:anvarkangadiyil@gmail.com)
+<br />
 
-## 🚀 Tech Stack
+<!-- ABOUT ME -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;About Me
 
-### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+```yaml
+name: Anvar Kangadiyil
+role: Software Engineer
+location: India
+focus: Backend Architecture · Data Modeling · ML Systems
 
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=white)
+currently:
+  - Shipping enterprise features with Next.js, Node.js & PostgreSQL
+  - Deep-diving into ML systems and RAG architectures
+  - Building context-aware tooling for developer productivity
 
-### Backend & Databases
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+philosophy: >
+  I don't just use tools — I understand the tradeoffs
+  that come with them. My depth is in the layers users
+  don't see: schema design, service boundaries, and the
+  logic that holds everything together.
+```
 
-### Tools & DevOps
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+<br />
 
-## 📈 GitHub Stats
+<!-- TECH STACK -->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Arsenal
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Anvarkangadiyil&show_icons=true&theme=dracula)
+<div align="center">
 
----
-⭐️ From [Anvar Kankadiyil](https://github.com/Anvarkangadiyil)
+#### 💬 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,java,python&amp;theme=dark" alt="Languages" />
+</p>
+
+#### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&amp;theme=dark" alt="Frontend" />
+</p>
+
+#### ⚙️ Backend & Data
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,firebase&amp;theme=dark" alt="Backend" />
+</p>
+
+#### 🛠️ DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vercel,vscode&amp;theme=dark" alt="Tools" />
+</p>
+
+</div>
+
+<br />
+
+<!-- FEATURED PROJECT -->
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32"> &nbsp;Flagship Project
+
+<div align="center">
+<table>
+<tr>
+<td width="100%">
+
+### 🧠 Axiom — AI-Native Cloud IDE
+
+<p>A browser-based development environment exploring what happens when AI moves from autocomplete to <strong>collaborative context</strong>.</p>
+
+<div align="center">
+
+| Feature | Details |
+|:--------|:--------|
+| 🔒 **Sandboxed Runtime** | In-browser execution with isolated runtime environments |
+| 🧩 **Semantic Completions** | Context-aware suggestions driven by project-level understanding |
+| ⚡ **Low-Latency** | Architecture designed for real-time collaboration at scale |
+
+</div>
+
+</td>
+</tr>
+</table>
+</div>
+
+<br />
+
+<!-- GITHUB ANALYTICS -->
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="28"> &nbsp;GitHub Analytics
+
+<div align="center">
+
+<!-- TROPHIES -->
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Anvarkangadiyil&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br />
+
+
+
+<!-- STREAK STATS -->
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Anvarkangadiyil&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=1f6feb&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=8b949e&dates=484f58)](https://git.io/streak-stats)
+
+<br />
+
+<!-- ACTIVITY GRAPH -->
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anvarkangadiyil&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/Anvarkangadiyil)
+
+</div>
+
+<br />
+
+<!-- WHAT I'M UP TO -->
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;Current Focus
+
+<div align="center">
+
+```
+┌──────────────────────────────────────────────────────────────────┐
+│                                                                  │
+│   🏗️  Full-Stack Feature Delivery                               │
+│       Owning modules end-to-end in production                   │
+│       Next.js · Node.js · PostgreSQL                            │
+│                                                                  │
+│   🤖  ML Integration                                            │
+│       Bridging model experimentation                            │
+│       with real, shipped software                               │
+│                                                                  │
+│   🔍  RAG Architectures                                         │
+│       Retrieval-augmented generation for                        │
+│       context-aware tooling & internal systems                  │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<br />
+
+<!-- CONNECT -->
+## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="28"> &nbsp;Let's Connect
+
+<div align="center">
+
+I'm open to conversations about **software engineering roles** where the work is deep, the systems are meaningful, and the team cares about craft.
+
+<br />
+
+[![Email](https://img.shields.io/badge/📬_anvarkangadiyil@gmail.com-0d1117?style=for-the-badge)](mailto:anvarkangadiyil@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0d1117?style=for-the-badge)](https://www.linkedin.com/in/anvar-kangadiyil-653679274)
+
+</div>
+
+<br />
+
+<!-- FOOTER -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:0d1117&height=120&section=footer)
+
+<div align="center">
+
+![Made with love](https://img.shields.io/badge/Made%20with-❤️-58a6ff?style=flat-square&labelColor=0d1117)
+
+</div>
