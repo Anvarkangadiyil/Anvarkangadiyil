@@ -1,5 +1,7 @@
 <!-- ANIMATED HEADER -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=240&section=header&text=Anvar%20Kangadiyil&fontColor=ffffff&fontSize=46&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer&descSize=18&descAlignY=56)
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=240&section=header&text=Anvar%20Kangadiyil&fontColor=ffffff&fontSize=46&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer&descSize=30&descAlignY=56" />
+</div>
 
 <div align="center">
 
@@ -29,7 +31,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;About Me
 
 ```yaml
-name: Anvar Kangadiyil
+name: Anvar 
 role: Software Engineer
 location: India
 focus: Backend Architecture · Data Modeling · ML Systems
@@ -178,8 +180,9 @@ I'm open to conversations about **software engineering roles** where the work is
 <br />
 
 <!-- FOOTER -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:0d1117&height=120&section=footer)
-
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:0d1117&height=120&section=footer" />
+</div>
 <div align="center">
 
 ![Made with love](https://img.shields.io/badge/Made%20with-❤️-58a6ff?style=flat-square&labelColor=0d1117)
