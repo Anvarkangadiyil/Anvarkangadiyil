@@ -1,6 +1,9 @@
 <!-- ANIMATED HEADER -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=240&section=header&text=Anvar%20Kangadiyil&fontColor=ffffff&fontSize=46&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer&descSize=30&descAlignY=56" />
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0d1117,50:111827,100:1f6feb&text=Anvar&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=Software%20Engineer%20&descSize=22&descAlignY=55&animation=fadeIn"
+  />
 </div>
 
 <div align="center">
@@ -181,7 +184,7 @@ I'm open to conversations about **software engineering roles** where the work is
 
 <!-- FOOTER -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:0d1117&height=120&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:0d1117&height=140&section=footer" />
 </div>
 <div align="center">
 
