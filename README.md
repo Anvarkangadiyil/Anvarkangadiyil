@@ -116,9 +116,7 @@ philosophy: >
 
 <div align="center">
 
-<!-- TROPHIES -->
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Anvarkangadiyil&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br />
 
