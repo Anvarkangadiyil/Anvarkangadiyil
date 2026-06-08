@@ -83,7 +83,7 @@ philosophy: >
 <br />
 
 <!-- FEATURED PROJECT -->
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32"> &nbsp;Flagship Project
+<!-- ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32"> &nbsp;Flagship Project
 
 <div align="center">
 <table>
@@ -107,7 +107,7 @@ philosophy: >
 </td>
 </tr>
 </table>
-</div>
+</div>-->
 
 <br />
 
