@@ -37,7 +37,7 @@
 name: Anvar 
 role: Software Engineer
 location: India
-focus: Backend Architecture · Data Modeling · ML Systems
+focus: Backend Architecture · ML Systems
 
 currently:
   - Shipping enterprise features with Next.js, Node.js & PostgreSQL
